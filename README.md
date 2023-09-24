@@ -120,13 +120,4 @@ window.onload = function() {
 </script>
 ```
 
-### NPM
-The package is also available via [NPM](https://www.npmjs.com/package/elevator.js)
 
-### License
-
-Elevator.js is covered by the MIT License.
-
-Audio in the Demo was bought via [Pond5](https://www.pond5.com/stock-music/11517192/elevator-bossa-nova.html), you will need to license your own.
-
-Copyright (C) ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
