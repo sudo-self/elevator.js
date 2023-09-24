@@ -3,6 +3,9 @@ Finally, a "back to top" button that behaves like a real elevator, by adding ele
 
 This is very serious stuff, [here's a demo](https://elevate.jessejesse.com)!
 
+# <img width="1018" alt="Screenshot 2023-09-23 at 7 38 26 PM" src="https://github.com/sudo-self/elevator.js/assets/119916323/19124322-258c-4807-9251-c986f23bee47">
+
+
 ### Instructions
 
 `Elevator.js` is a stand alone library (no jquery, or the likes) so usage is pretty straight forward. All styling of elements is up to you. `Elevator.js` only handles the audio management, and the scroll functionality!
