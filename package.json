@@ -9,7 +9,7 @@
     "url": "https://github.com/tholman/elevator.js/issues"
   },
   "license": "MIT",
-  "author": "jesse roper",
+  "author": "Tim Holman <timothy.w.holman@gmail.com> (http://tholman.com)",
   "main": "elevator.min.js",
   "repository": {
     "type": "git",
