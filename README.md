@@ -1,7 +1,7 @@
 # elevator.js
 Finally, a "back to top" button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.
 
-This is very serious stuff, [here's a demo](http://tholman.com/elevator.js)!
+This is very serious stuff, [here's a demo](https://elevate.jessejesse.com)!
 
 ### Instructions
 
