@@ -1,7 +1,7 @@
-# elevator.js
+# <a href="https://elevator.jessejesse.com">elevator.js</a> <---- try me
 Finally, a "back to top" button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.
 
-This is very serious stuff, [here's a demo](https://elevate.jessejesse.com)!
+
 
 # <img width="1005" alt="Screenshot 2023-09-23 at 10 24 06 PM" src="https://github.com/sudo-self/elevator.js/assets/119916323/1a72365e-78e0-4548-b55e-df18aebcea33">
 
