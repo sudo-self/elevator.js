@@ -3,7 +3,8 @@ Finally, a "back to top" button that behaves like a real elevator, by adding ele
 
 This is very serious stuff, [here's a demo](https://elevate.jessejesse.com)!
 
-# <img width="1018" alt="Screenshot 2023-09-23 at 7 38 26 PM" src="https://github.com/sudo-self/elevator.js/assets/119916323/19124322-258c-4807-9251-c986f23bee47">
+# <img width="1005" alt="Screenshot 2023-09-23 at 10 24 06 PM" src="https://github.com/sudo-self/elevator.js/assets/119916323/1a72365e-78e0-4548-b55e-df18aebcea33">
+
 
 
 ### Instructions
